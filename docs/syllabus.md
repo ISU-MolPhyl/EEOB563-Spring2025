@@ -1,5 +1,5 @@
-### Spring 2023
-## EEOB 563: Molecular Phylogenetics (3 credits)
+### Spring 2025
+## EEOB 5630: Molecular Phylogenetics (3 credits)
 ### Course Syllabus
 
 #### Instructor:	
@@ -12,15 +12,15 @@ Slack: [https://eeob563.slack.com/](https://eeob563.slack.com/)
 Office hours: by appointment  
 
 #### Course Information:  
-Class meets on Tu/Th: 9:00-10:50 AM, 203 Bessey.   
+Class meets on Tu/Th: 1:10-3:00 AM, 203 Bessey.   
 Class schedule and other class materials are available online at [https://isu-molphyl.github.io/EEOB563/](https://isu-molphyl.github.io/EEOB563/).
 
 #### Course Description:  
 This course is designed to introduce you to the theory and practice of phylogenetic analysis.  The course emphasizes a hands-on approach to molecular phylogenetics and combines lecture presentations with computer exercises and discussion of original scientific literature.
 
-#### Prerequisites:  
-Knowledge of basic genetics (e.g., BIOL 313) and basic evolutionary theory (e.g., BIOL 315) are required for understanding the material of this course.  
-The following computer skills will come in very handy (and will be introduced in the course):
+#### Preparation:  
+Knowledge of basic genetics (e.g., BIOL 313) and basic evolutionary theory (e.g., BIOL 315) is important to understand material of the course.  
+Also, the following computer skills will come in very handy (and will be introduced in the course):
 
 - Unix: many program we'll use in the labs require operational knowledge of unix.
 - Git and GitHub: we will be using Git and github for version control and file sharing
@@ -40,10 +40,8 @@ However, I will not follow this book directly and I will list readings to supple
 I will also provide occasional handouts as references.
 
 #### Attendance policy:  
-Attendance of lectures is expected, but not required. 
-However, sporadic attendance will result in fewer points for participation in discussion.
-
-__Lab attendance is required. Missed labs need to be completed and a summary report submitted to the instructor.__
+Attendance of lectures and participation in discussion is expected, please let me know in advance if you have to miss a class. 
+__Missed labs need to be completed and a summary report submitted to the instructor.__
 
 #### Grading:  
 Grades will be based on homework assignments, completion of laboratory exercises, a midterm exam, and the final paper/presentation.  
